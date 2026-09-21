@@ -1,12 +1,6 @@
 # 🎮 AirBlocks — Hand-Gesture Block Puzzle
 
-A block-puzzle game you play **with your hands in the air** — no mouse, no
-keyboard. A webcam tracks your hand with **MediaPipe**, and you grab and place
-Tetris-style blocks on a 10×10 grid by making gestures. Clear full rows or
-columns to score.
-
-> Think *Block Blast / Wood Block Puzzle*, but the controller is your hand.
-
+An interactive web application that transforms standard webcam input into a hands-free gaming experience. Using MediaPipe for real-time hand-tracking, the game detects custom finger gestures—allowing players to pinch to grab blocks and release to place them on the board. Clear every block layout and compete for the highest possible score.
 ---
 
 ## 🌐 Live Demo
