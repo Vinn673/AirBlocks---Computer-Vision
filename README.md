@@ -1,6 +1,7 @@
 # 🎮 AirBlocks — Hand-Gesture Block Puzzle
 
 An interactive web application that transforms standard webcam input into a hands-free gaming experience. Using MediaPipe for real-time hand-tracking, the game detects custom finger gestures—allowing players to pinch to grab blocks and release to place them on the board. Clear every block layout and compete for the highest possible score.
+
 ---
 
 ## 🌐 Live Demo
